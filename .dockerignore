@@ -1,0 +1,23 @@
+
+# Игнорируем виртуальное окружение
+venv/
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Файлы IDE
+.idea/
+.vscode/
+
+*.env 
+
+# Игнорируем git-репозиторий
+.git/
+.gitignore
+
+# Игнорируем файлы для других лаб
+test_data/
+lru_cache_hw1/
+
+
